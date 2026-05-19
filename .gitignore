@@ -37,7 +37,7 @@ env/
 
 # Docker
 .dockerignore
-Dockerfile
+
 
 # Logs
 *.log
