@@ -36,7 +36,7 @@ env/
 .DS_Store
 
 # Docker
-.dockerignore
+
 
 
 # Logs
